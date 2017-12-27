@@ -3,11 +3,11 @@
     /* initiating the grid layout*/
     display: grid;
 
-    /* set the size & number of columns; 3 with a responsive middle column*/
+    /* set the size & number of COLUMNS; 3 with a responsive middle column*/
     /* split into 4 fraction units, two take 1fr and one takes 2fr */
     /* grid-template-columns: repeat(3, 1fr); */
 
-    /* set the size & number of row; can be defined using 1fr or 50px*/
+    /* set the size & number of ROWS; can be defined using 1fr or 50px*/
     /* grid-template-rows: repeat(2, 50px); */
 
     /* shorthand way of defining row and columns */
